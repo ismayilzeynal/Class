@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\bin\Debug\netcoreapp3.1\Class.exe
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\bin\Debug\netcoreapp3.1\Class.deps.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\bin\Debug\netcoreapp3.1\Class.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\bin\Debug\netcoreapp3.1\Class.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\bin\Debug\netcoreapp3.1\Class.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\bin\Debug\netcoreapp3.1\Class.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\obj\Debug\netcoreapp3.1\Class.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\obj\Debug\netcoreapp3.1\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\obj\Debug\netcoreapp3.1\Class.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\obj\Debug\netcoreapp3.1\Class.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\obj\Debug\netcoreapp3.1\Class.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\obj\Debug\netcoreapp3.1\Class.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\obj\Debug\netcoreapp3.1\Class.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Class\Class\obj\Debug\netcoreapp3.1\Class.genruntimeconfig.cache
